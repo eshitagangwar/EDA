@@ -16,11 +16,3 @@ chisq.test(ctab)
 ctab1 = cbind(ctab[,"Freq"] , ctab[,"None"]+ctab[,"Some"])
 ctab1
 chisq.test(ctab1)
-# accept the null hypothesis
-
-
-data1 = mtcars
-data1$carb = NULL
-data1$gear = NA
-str(data1)
-str(mtcars)
