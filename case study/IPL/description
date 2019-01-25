@@ -1,0 +1,46 @@
+Case Study
+
+Indian Premier League
+
+Data Source: data.word
+Difficulty level: medium
+
+Content: 
+You are provided with IPL data set until 2016. Data set contain multiple file with the following columns: 
+File 1: Ball_by_Ball
+File2: Match
+File3: Player
+File4: Player_match
+File5: season
+File6: Team
+
+The Task
+Your task is to design a dashboard containing: 
+1)	Top 10 Batsman: 
+a.	based on Runs scored
+b.	based on Number of 6s
+c.	based on Number of 4s
+d.	based to Number of 100s
+
+2)	Top 10 Teams:
+a.	Based on number of matches won
+b.	Based on winning the toss and winning the match
+c.	Based on team winning highest number of Man of the match.
+
+3)	Season wise 
+a.	Orange Cap holder 
+b.	Purple Cap holder
+
+4)	For each season matches with biggest win margin based on runs.
+5)	Total Number of : 
+a.	Matches
+b.	100s
+c.	50s
+d.	6s
+e.	4s
+6)	Team wise count of title win.
+
+
+
+
+
