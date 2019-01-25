@@ -1,0 +1,6 @@
+Data Description
+Use data set Titanic
+TASK:
+1)	Apply the k-means algorithm to get 4 clusters. Remember to set the seed to 1234 so the results are comparable. Note that you can remove few column, which are not used in K-means.
+2)	Describe, in words, each of the clusters.
+3)	Now, 4 clusters was an arbitrary choice. What seems like a reasonable number of clusters?
