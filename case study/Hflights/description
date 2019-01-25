@@ -1,0 +1,14 @@
+1.	Install the package ”hflights” and load the library command 
+2.	Convert to a local data frame (use command tbl_df)
+3.	Convert to a normal data frame to see all of the columns
+4.	base R approach & dplyr approach to view all flights on January 1 
+5.	Select those flights where UniqueCarrier is “UA” or “AA”
+6.	Pick columns by name - DepTime, ArrTime, FlightNum using base r and dplyr
+7.	select UniqueCarrier and DepDelay columns and filter for delays over 60 minutes in dplyr
+8.	use mutate to create a new variable Speed (in mph) and  display distance ,airtime and speed columns
+9.	store the data into variable “flights”
+10.	create a dataset grouped by Dest, and then summarise each group by taking the mean of ArrDelay
+11.	for each day of the year, count the total number of flights and sort in descending order
+12.	for each destination, count the total number of flights and the number of distinct planes that flew there
+13.	for each destination, show the number of cancelled and not cancelled flights
+
