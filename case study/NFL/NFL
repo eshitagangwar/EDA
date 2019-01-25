@@ -1,0 +1,10 @@
+Data Description
+Use the NFL Play by Play 2009-2017 (v4).csv 
+Acknowledgements
+This dataset was compiled by Ron Yurko, Sam Ventura, and myself. Special shout-out to Ron for improving our current expected points and win probability models and compiling this dataset. All three of us are proud founders of the Carnegie Mellon Sports Analytics Club.
+TASK
+1)	Get the number of missing data points per column.
+2)	Percent of data that is missing in terms of cells.
+3)	Find the number of rows after removing all the rows that contain a missing value.
+4)	Find the number of columns after removing all columns with at least one missing value.
+5)	Replace all missing value by the mean value of that column.
