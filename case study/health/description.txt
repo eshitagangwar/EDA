@@ -1,0 +1,16 @@
+Data Description
+A population of women who were at least 21 years old, of Pima Indian heritage and living near Phoenix, Arizona, was tested for diabetes according to World Health Organization criteria. The data were collected by the US National Institute of Diabetes and Digestive and Kidney Diseases. 
+These data frames contains the following columns:
+1)	Npreg: number of pregnancies.
+2)	Glu : plasma glucose concentration in an oral glucose tolerance test. 
+3)	Bp : diastolic blood pressure (mm Hg).
+4)	Skin : triceps skin fold thickness (mm).
+5)	Bmi : body mass index (weight in kg/(height in m)\^2).
+6)	Ped : diabetes pedigree function. 
+7)	Age : age in years. 
+8)	Type : Yes or No, for diabetic according to WHO criteria.
+TASK:
+1)	What is the probability for someone age 35 with bmi of 32, to be diabetic?
+2)	According to your model what is the probability that a woman in your sample is diabetic given age 55, a bmi 37, bp 68 and npreg of 2?
+3)	For a woman aged 35 and mother of 2 children, by how much does the probability of diabetes increase, if her bmi was 35 instead of 25 according to the model? 
+4)	What is the accuracy of Models?
