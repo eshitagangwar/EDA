@@ -1,0 +1,17 @@
+Using the data on manner of deaths, answer the questions using R software. For each of the questions write the R code. 		
+									
+1.	How many children (<= 18 years) have died of which how many by (a) hanging, (b) Poisson, (c) Burns, and (d) drowning								
+2.	How many students died due to (a) depression (b) love failure, (c) Pain during menstruation (Dysmenorrhea), (d) failure in studies, (e) threatned by some one to marry								
+3.	What is the ratio of male and female died tolove failure?								
+4.	How many students died due to Poisson?								
+5.	How many died due to love failure among (a) upper middle class Hindu, (b) lower class christian, (c) Middle class Muslim								
+6.	How many between the age of 19 - 20 years have died due to (a) love failure, (b) dowry death, (c) quarreling with husband, (d) failure in studies								
+7.	How many between at the age of 21 years have died by taking sleeping pills due to love failure								
+8.	How many have died death of husband? What is the age of the victim and belonging to which religion and SES?								
+9.	What is the ratio of married to unmarried persons who have died? How many married women died due to dowry deaths? How many of these are Hindus and Muslims?								
+10.	What is the ratio of suicide and accidental deaths? What is the distribution of time of deaths? How many persons belonging to Jains died due to depression?								
+11.	State some of the hypothesis which may be formulated based on this data? 								
+12.	Is there sufficient data to test these hypothesis? If so, use the available and test those hypothesis. 								
+13.	What proportion have survived even after attempt to suicide?								
+14.	How many of the survivors brought within 60 minutes to hospital								
+15.	Considering outcome of suicide as dependent fit a logistic regression model taking all other variables as independent variables.								
