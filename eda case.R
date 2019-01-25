@@ -21,8 +21,6 @@ c3 = hr%>%filter( TotalWorkingYears <=10 ,  TotalWorkingYears >=8)%>%
   summarise(t = mean((PercentSalaryHike)*(MonthlyIncome)/100 , na.rm = T))
 View(c3)
 
-
-##########practice
 ggplot(hr , aes(x = MonthlyIncome , y = TotalWorkingYears)) + geom_jitter(aes(color = as.factor(Attrition)))
 ggplot(hr , aes(x = PercentSalaryHike , y = MonthlyIncome)) + geom_jitter(aes(color = as.factor(Attrition)))
 #4.	Is the "number of companies worked" normally distributed for the employees with work
